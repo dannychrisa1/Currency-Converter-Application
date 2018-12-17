@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # new-website
 
 ## Project setup
@@ -24,3 +25,7 @@ npm run test
 ```
 npm run lint
 ```
+=======
+# Currency-Converter-Application
+Currency converter with vue and vuetify fetching from api
+>>>>>>> b2ef99979677af341b0ca80c6e0047af73d6c99c
